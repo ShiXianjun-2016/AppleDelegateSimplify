@@ -20,6 +20,7 @@
 {
     // registered
     
+    
     [self destroyAppEventMedule];
     
     return YES;
